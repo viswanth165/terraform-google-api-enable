@@ -1,8 +1,9 @@
 //required variables
 variable "project" {
-  description = "The GCP project you want to enable APIs on"
+
+  description = "The GCP project you want to enable APIs on.\neg:drgdgragae"
   type        = string
-  //example     = "aadfsb"
+  
 }
 
 variable "service" {
